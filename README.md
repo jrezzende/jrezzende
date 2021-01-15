@@ -6,9 +6,6 @@
 ### <div align="center">Trabalho como desenvolvedor há pouco mais de 3 anos. Atualmente atuo como backend na [Delivery Much Brasil](https://github.com/delivery-much)</div>  
   
 
-- 🏖️   - atualmente de férias  
-  
-
 - 🤓 - aprendendo sobre Golang, TypeScript, TDD e arquitetura de software  
   
 
