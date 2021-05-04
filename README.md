@@ -1,20 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/jrezzende/jrezzende/main/header.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Trabalho como desenvolvedor há pouco mais de 3 anos. Atualmente backend na [Delivery Much Brasil](https://github.com/delivery-much)</div>  
-  
-
-- 🤓 - aprendendo sobre Golang, TypeScript, TDD e arquitetura de software  
-  
-
-- ❓ - tenho 24 anos e moro em Florianópolis.  
-  
-
-<br/>  
-
-
 ## habilidades/ferramentas 
 <table><tr><td valign="top" width="33%">
 
