@@ -1,4 +1,4 @@
-## backend developer that loves music and technology   😁
+## backend developer. loves music and technology   😁
 
 <br/>  
 
